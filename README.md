@@ -25,4 +25,4 @@
 
 # OUTLINE FOR DATA ANALYSIS -
  
-*  For Python EDA code file, Please refer to : ### Real world fuel efficiency using python.ipynb . I have done all the documentation as well as code inside this file.
+* ### For Python EDA code file, Please refer to :  Real world fuel efficiency using python.ipynb (pandas, plotly, matplotlib and seaborn) . I have done all the documentation as well as code inside this file.
