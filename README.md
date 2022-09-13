@@ -1,4 +1,4 @@
-# Real world fuel efficiency using Python
+# REAL WORLD FUEL EFFICIENCY USING PYTHON
 * Sample Dataset Containing Real World fuel efficiency Data of New York of Several leading Premium Car Manufacturing Companies In the Year 2022.
 * In this project I have done the Exploratory Data Analysis(EDA) on Real World fuel efficiency Data by Using Python (Pandas, plotly, Matplotlib and Seaborn).
 
@@ -25,7 +25,7 @@
 
 # OUTLINE FOR DATA ANALYSIS -
  
-* ### For Python EDA code file, Please refer to :  Real world fuel efficiency using python (pandas, plotly, matplotlib and seaborn).html .
+* ### For Python EDA code file, Please refer to :  Real world fuel efficiency using python (pandas, plotly, matplotlib and seaborn).html 
 * ### I have done all the documentation as well as code inside this file.
 
 
